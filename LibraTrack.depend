@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777440704 source:d:\4th semester\project\libratrack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
